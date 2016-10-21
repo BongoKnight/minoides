@@ -5,4 +5,6 @@
 * rosls = ros + ls <br>
 
 <b>Utilisation ROS</b><br>
-
+* roscore = lancer le coeur de ros<br>
+* rosrun = lancer un noeud ros<br>
+* rosnode = info sur les nodes<br>
