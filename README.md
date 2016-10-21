@@ -8,3 +8,9 @@
 * roscore = lancer le coeur de ros<br>
 * rosrun = lancer un noeud ros<br>
 * rosnode = info sur les nodes<br>
+* rosservice = info sur les services ros
+* rostopic = info sur les topics
+
+<b>Monitoring</b><br>
+* rqt_plot
+* rqt_graph
